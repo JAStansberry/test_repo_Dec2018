@@ -3,3 +3,8 @@ This is the first version, from swcarpentry training Dec. 2018.
 
 This is the second change to the file.
 
+
+
+This is the 3rd change, made at the same time jupiter.txt was added to the repo.
+
+Will try to add the above change, but not this one.
